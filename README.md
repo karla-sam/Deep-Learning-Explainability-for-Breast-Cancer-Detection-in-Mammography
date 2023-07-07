@@ -1,6 +1,7 @@
 # Deep-Learning-Explainability-for-Breast-Cancer-Detection-in-Mammography
 This code was developed as a master thesis project for the Erasmus Mundus Joint Master's Degree in MedicAl Imaging and Applications (MAIA) by the University of Girona, the University of Cassino and Souther Lazio & the University of Burgundy. The work was developed in collaboration with the ViCOROB research group in the University of Girona.
-![Highest TP - attributions](https://github.com/karla-sam/Deep-Learning-Explainability-for-Breast-Cancer-Detection-in-Mammography/assets/101817439/c0218aca-0422-49ed-807d-09c20da73311)
+![Highest TP - IG attributions](https://github.com/karla-sam/Deep-Learning-Explainability-for-Breast-Cancer-Detection-in-Mammography/assets/101817439/67aeae8a-c076-46c8-b36b-87af6200deeb)
+
 
 ## Main contributors
 - Karla Sam Millan
